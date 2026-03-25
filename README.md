@@ -1,6 +1,6 @@
-# QR Tool
+# QR Code Scanner and Generator
 
-Scan and generate QR codes. Built with Flask and OpenCV.
+Built with Flask and OpenCV.
 
 ## How to Use
 
@@ -9,15 +9,10 @@ Scan and generate QR codes. Built with Flask and OpenCV.
 
 ## Run It
 
+```bash
 pip install -r requirements.txt
-
 python app.py
-
+```
 Open http://localhost:5000
 
-## Stack
-
-Python | Flask | OpenCV | JavaScript
-
 ---
-
